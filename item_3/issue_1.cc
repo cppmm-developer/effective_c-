@@ -1,3 +1,4 @@
+// Q. 상수 함수안에서 비상수 함수를 호출하는 논리상의 코드
 #include <iostream>
 
 using namespace std;
